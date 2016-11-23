@@ -1,0 +1,9 @@
+[submodule "redis"]
+	path = redis
+	url = https://github.com/ksarch-saas/redis
+[submodule "r3proxy"]
+	path = r3proxy
+	url = https://github.com/ksarch-saas/r3proxy
+[submodule "cc"]
+	path = cc
+	url = https://github.com/ksarch-saas/cc
